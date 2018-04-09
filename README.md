@@ -37,7 +37,7 @@
 
 * В обоих случаях пользователю предлагается сыграть заново, либо закончить играть:
 
-<img src="https://i.imgur.com/jJKtdkA.png" data-canonical-src="https://i.imgur.com/jJKtdkA.png" width="300" height="120" />
+<img src="https://i.imgur.com/jJKtdkA.png" width="300" height="120" />
 
 
 ### Сборка
