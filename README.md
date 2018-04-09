@@ -27,13 +27,9 @@
 
 <img src="https://i.imgur.com/jmh5dw7.png" width="250" height="330" />
 
-* Далее пользователь либо проигрывает о чем ему дает понять появившаяся картинка:
+* Далее пользователь либо проигрывает, либо выигрывает - об этом ему дает понять появившаяся картинка:
 
 <img src="https://i.imgur.com/xg5zYmv.png" width="250" height="330" hspace="20"/><img src="https://i.imgur.com/oghxYXL.png" width="250" height="330" hspace="20"/>
-
-* Либо выигрывает:
-
-<img src="https://i.imgur.com/oghxYXL.png" width="250" height="330" />
 
 * В обоих случаях пользователю предлагается сыграть заново, либо закончить играть:
 
