@@ -17,7 +17,7 @@
 Проект реализует вышеописанную игру. Для реализации графического интерфейса используется библиотека Swing. Сразу после запуска пользователю предлагается в вести слово, которое в дальнейшем другой пользователь должен отгадать:
 
 
-<img src="https://i.imgur.com/SjkCZRu.png" data-canonical-src="https://i.imgur.com/SjkCZRu.png" width="500" height="200" />
+<img src="https://i.imgur.com/SjkCZRu.png" data-canonical-src="https://i.imgur.com/SjkCZRu.png" width="400" height="150" />
 
 ![](https://i.imgur.com/SjkCZRu.png | width=100)
 
