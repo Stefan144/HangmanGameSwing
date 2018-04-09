@@ -29,7 +29,7 @@
 
 * Далее пользователь либо проигрывает о чем ему дает понять появившаяся картинка:
 
-<img src="https://i.imgur.com/xg5zYmv.png" width="250" height="330" /><img src="https://i.imgur.com/oghxYXL.png" width="250" height="330" />
+<img src="https://i.imgur.com/xg5zYmv.png" width="250" height="330" hspace="20"/><img src="https://i.imgur.com/oghxYXL.png" width="250" height="330" hspace="20"/>
 
 * Либо выигрывает:
 
