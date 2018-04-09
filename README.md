@@ -17,15 +17,15 @@
 * Проект реализует вышеописанную игру. Для реализации графического интерфейса используется библиотека Swing. Сразу после запуска пользователю предлагается в вести слово, которое в дальнейшем другой пользователь должен отгадать:
 
 
-<img src="https://i.imgur.com/SjkCZRu.png" width="400" height="150" />
+<img src="https://i.imgur.com/SjkCZRu.png" width="400" height="150"  hspace="20"/>
 
 * Пользователь вводит свое слово и жмет Let's Play:
 
-<img src="https://i.imgur.com/B6gDlxX.png" width="400" height="150" />
+<img src="https://i.imgur.com/B6gDlxX.png" width="400" height="150"  hspace="20"/>
 
 * Начинается игра. Пользователь выбирает буквы, ведется подсчет неправильно выбранных букв, а также заполняются правильно выбранные:
 
-<img src="https://i.imgur.com/jmh5dw7.png" width="250" height="330" />
+<img src="https://i.imgur.com/jmh5dw7.png" width="250" height="330"  hspace="20"/>
 
 * Далее пользователь либо проигрывает, либо выигрывает - об этом ему дает понять появившаяся картинка:
 
@@ -33,7 +33,7 @@
 
 * В обоих случаях пользователю предлагается сыграть заново, либо закончить играть:
 
-<img src="https://i.imgur.com/jJKtdkA.png" width="300" height="120" />
+<img src="https://i.imgur.com/jJKtdkA.png" width="300" height="120"  hspace="20"/>
 
 
 ### Сборка
