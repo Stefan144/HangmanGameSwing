@@ -19,28 +19,25 @@
 
 <img src="https://i.imgur.com/SjkCZRu.png" data-canonical-src="https://i.imgur.com/SjkCZRu.png" width="400" height="150" />
 
-![](https://i.imgur.com/SjkCZRu.png | width=100)
-
 Пользователь вводит свое слово и жмет Let's Play:
 
-![](https://i.imgur.com/B6gDlxX.png =250x250)
+<img src="https://i.imgur.com/B6gDlxX.png" data-canonical-src="https://i.imgur.com/B6gDlxX.png" width="400" height="150" />
 
 Начинается игра. Пользователь выбирает буквы, ведется подсчет неправильно выбранных букв, а также заполняются правильно выбранные:
 
-![](https://i.imgur.com/jmh5dw7.png =250x250)
+<img src="https://i.imgur.com/jmh5dw7.png" data-canonical-src="https://i.imgur.com/jmh5dw7.png" width="400" height="150" />
 
 Далее пользователь либо проигрывает о чем ему дает понять появившаяся картинка:
 
-![](https://i.imgur.com/xg5zYmv.png =250x250)
+<img src="https://i.imgur.com/xg5zYmv.png" data-canonical-src="https://i.imgur.com/xg5zYmv.png" width="400" height="150" />
 
 Либо выигрывает:
 
-![](https://i.imgur.com/oghxYXL.png =250x250)
+<img src="https://i.imgur.com/oghxYXL.png" data-canonical-src="https://i.imgur.com/oghxYXL.png" width="400" height="150" />
 
 В обоих случаях пользователю предлагается сыграть заново, либо закончить играть:
 
-![](https://i.imgur.com/jJKtdkA.png =250x250)
-
+<img src="https://i.imgur.com/jJKtdkA.png" data-canonical-src="https://i.imgur.com/jJKtdkA.png" width="400" height="150" />
 
 
 ### Сборка
