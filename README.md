@@ -25,19 +25,19 @@
 
 Начинается игра. Пользователь выбирает буквы, ведется подсчет неправильно выбранных букв, а также заполняются правильно выбранные:
 
-<img src="https://i.imgur.com/jmh5dw7.png" data-canonical-src="https://i.imgur.com/jmh5dw7.png" width="400" height="150" />
+<img src="https://i.imgur.com/jmh5dw7.png" data-canonical-src="https://i.imgur.com/jmh5dw7.png" width="400" height="500" />
 
 Далее пользователь либо проигрывает о чем ему дает понять появившаяся картинка:
 
-<img src="https://i.imgur.com/xg5zYmv.png" data-canonical-src="https://i.imgur.com/xg5zYmv.png" width="400" height="150" />
+<img src="https://i.imgur.com/xg5zYmv.png" data-canonical-src="https://i.imgur.com/xg5zYmv.png" width="400" height="500" />
 
 Либо выигрывает:
 
-<img src="https://i.imgur.com/oghxYXL.png" data-canonical-src="https://i.imgur.com/oghxYXL.png" width="400" height="150" />
+<img src="https://i.imgur.com/oghxYXL.png" data-canonical-src="https://i.imgur.com/oghxYXL.png" width="400" height="500" />
 
 В обоих случаях пользователю предлагается сыграть заново, либо закончить играть:
 
-<img src="https://i.imgur.com/jJKtdkA.png" data-canonical-src="https://i.imgur.com/jJKtdkA.png" width="400" height="150" />
+<img src="https://i.imgur.com/jJKtdkA.png" data-canonical-src="https://i.imgur.com/jJKtdkA.png" width="350" height="120" />
 
 
 ### Сборка
