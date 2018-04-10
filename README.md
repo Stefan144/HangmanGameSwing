@@ -14,15 +14,18 @@
 
 ### Запуск и сборка
 
+0. Скачать репозиторий
+```bash
+git clone https://github.com/Stefan144/HangmanGameSwing.git
+```
 1. Открыть в IDE (в моем случае IntelliJ IDEA) и запустить Main.java
-2. 
-``` git clone https://github.com/Stefan144/HangmanGameSwing.git
+2. Обычный jar сборщик
+```bash
 cd HangmanGameSwing
 java -jar GameHangman.jar
 ```
-3. 
+3. maven сборщик
 ```bash
-git clone https://github.com/Stefan144/HangmanGameSwing.git
 cd HangmanGameSwing
 java -cp target/Test-1.0-SNAPSHOT.jar Main
 ```
