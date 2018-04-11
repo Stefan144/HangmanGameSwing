@@ -26,6 +26,7 @@ git clone https://github.com/Stefan144/HangmanGameSwing.git
 1. Открыть в IDE (в моем случае IntelliJ IDEA) и запустить Main.java
 2. Обычный jar сборщик
 ```bash
+Javac -version
 cd HangmanGameSwing
 java -jar GameHangman.jar
 ```
