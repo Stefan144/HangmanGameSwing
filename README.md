@@ -32,7 +32,7 @@ java -jar GameHangman.jar
 ```
 3. maven сборщик
 ```bash
-mvn -v
+mvn package
 cd HangmanGameSwing
 java -cp target/Test-1.0-SNAPSHOT.jar Main
 ```
